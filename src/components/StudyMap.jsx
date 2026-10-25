@@ -15,6 +15,7 @@ const buildingStyle=feature=>{
 };
 const RASTER={west:116.5,east:117,south:-1,north:-.75};
 const RASTER_BOUNDS=[[RASTER.south,RASTER.west],[RASTER.north,RASTER.east]];
+const PUBLIC_DATA=`${import.meta.env.BASE_URL}data/`;
 
 function getFeatures(data){
   return data?.type==='FeatureCollection'?data.features:data?.type==='Feature'?[data]:[];
@@ -94,7 +95,7 @@ export default function StudyMap(){
       pixels.current={ctx,width:canvas.width,height:canvas.height};
     };
     img.onerror=()=>{if(live)pixels.current=null;};
-    img.src='/data/flood_classes.png';
+    img.src=`${PUBLIC_DATA}flood_classes.png`;
     return()=>{live=false;};
   },[]);
   const evaluate=useCallback(({lat,lng})=>{
@@ -130,7 +131,7 @@ export default function StudyMap(){
     <MapContainer center={[-1.04,116.85]} zoom={10} scrollWheelZoom={false} className="map-container">
       {basemap==='street'?<TileLayer key="street" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>:
         <TileLayer key="satellite" attribution='Tiles &copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community' url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"/>}
-      {visible.preview&&<ImageOverlay url="/data/flood_susceptibility_preview.png" bounds={RASTER_BOUNDS} opacity={.65}/>}
+      {visible.preview&&<ImageOverlay url={`${PUBLIC_DATA}flood_susceptibility_preview.png`} bounds={RASTER_BOUNDS} opacity={.65}/>}
       {visible.extent&&<Rectangle bounds={RASTER_BOUNDS} pathOptions={{color:'#18385b',weight:2,dashArray:'8 6',fillOpacity:0}}><Tooltip>Acuan batas dua tile DEM; tidak seluruh piksel di dalamnya memiliki klasifikasi</Tooltip></Rectangle>}
       {['basins','rivers','mangrove','builtup'].map(key=>{
         const data=key==='builtup'?displayedBuildings:layers[key];
@@ -160,7 +161,7 @@ export default function StudyMap(){
     <div className="exposure-stat-grid">
       {[{key:'all',label:'Semua bangunan',color:'#1b5885'},{key:'3',label:'Indeks tinggi',color:buildingColors[3]},{key:'2',label:'Indeks sedang',color:buildingColors[2]},{key:'1',label:'Indeks rendah',color:buildingColors[1]},{key:'unknown',label:'Belum terklasifikasi',color:buildingColors.unknown}].map(item=><button type="button" key={item.key} className={`exposure-stat ${buildingFilter===item.key?'selected':''}`} aria-pressed={buildingFilter===item.key} onClick={()=>{setBuildingFilter(item.key);setVisible(v=>({...v,builtup:true}));}} style={{'--exposure-color':item.color}}><strong>{buildingSummary[item.key].toLocaleString('id-ID')}</strong><small>{item.label}</small></button>)}
     </div>
-    <div className="exposure-warning"><AlertTriangle size={16}/><span><strong>{buildingSummary.outside.toLocaleString('id-ID')} bangunan di luar batas DEM.</strong> Bangunan tanpa kelas juga mencakup lokasi dalam batas DEM tetapi tanpa piksel zonasi valid. Tidak terklasifikasi ≠ aman. Cakupan muara Sepaku belum lengkap; hasil ini bukan jumlah rumah terdampak banjir. {!importedBuiltup&&<a href="/data/builtup_screening.csv" download>Unduh daftar hasil screening (CSV)</a>}</span></div>
+    <div className="exposure-warning"><AlertTriangle size={16}/><span><strong>{buildingSummary.outside.toLocaleString('id-ID')} bangunan di luar batas DEM.</strong> Bangunan tanpa kelas juga mencakup lokasi dalam batas DEM tetapi tanpa piksel zonasi valid. Tidak terklasifikasi ≠ aman. Cakupan muara Sepaku belum lengkap; hasil ini bukan jumlah rumah terdampak banjir. {!importedBuiltup&&<a href={`${PUBLIC_DATA}builtup_screening.csv`} download>Unduh daftar hasil screening (CSV)</a>}</span></div>
   </section>}
   <DecisionSupport selection={selection} builtupDataAvailable={Boolean(builtupLayer)}/></>;
 }
