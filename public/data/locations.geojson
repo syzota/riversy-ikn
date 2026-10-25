@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "name": "locations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "nama": "Muara Sepaku",
+        "sungai": "Sungai Sepaku",
+        "status": "Kandidat - belum terverifikasi",
+        "catatan": "Titik indikatif berdasarkan interpretasi OpenStreetMap; perlu verifikasi hidrografi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.74866838,
+          -1.009596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "nama": "Outlet Semoi–Tengin",
+        "sungai": "Semoi–Tengin–Sigret",
+        "status": "Kandidat - belum terverifikasi",
+        "catatan": "Outlet indikatif berdasarkan jaringan HydroRIVERS dan OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.78203435,
+          -0.97913678
+        ]
+      }
+    }
+  ]
+}

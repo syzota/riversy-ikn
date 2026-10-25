@@ -1,0 +1,30 @@
+{
+  "total_building_footprints": 2560,
+  "counts": {
+    "1": 89,
+    "2": 481,
+    "3": 889,
+    "unclassified": 1101
+  },
+  "methods": {
+    "indicative_raster_intersection": 1459,
+    "no_valid_zonation": 610,
+    "outside_dem_extent": 491
+  },
+  "model_bounds_wgs84": {
+    "west": 116.5,
+    "east": 117.0,
+    "south": -1.0,
+    "north": -0.75
+  },
+  "raster_size": {
+    "width": 1112,
+    "height": 556
+  },
+  "valid_raster_pixels": 297943,
+  "total_raster_pixels": 618272,
+  "source": "User-supplied Overpass Turbo export.geojson (OSM buildings), two northern DEMNAS tiles, HydroRIVERS/HydroBASINS",
+  "method_description": "Approximate footprint/raster-pixel overlap; use maximum intersecting indicative index, with subpixel fallback.",
+  "interpretation": "Indicative screening candidates only; NOT inundated buildings, confirmed flood impacts, exposed residents, or calibrated flood hazard.",
+  "spatial_limit": "Raster model covers 116.5–117.0 E, -1.0 to -0.75 N at partial valid pixels. Southern Sepaku estuary is outside the current raster extent."
+}

@@ -1,0 +1,20 @@
+{
+  "bounds": [
+    [
+      -1.0,
+      116.5
+    ],
+    [
+      -0.75,
+      117.0
+    ]
+  ],
+  "status": "INDICATIVE_UNVALIDATED_PARTIAL_EXTENT",
+  "source": "DEMNAS_1815-31, DEMNAS_1815-32, HydroRIVERS, HydroBASINS",
+  "method": "Screening proxy: river-relative elevation 30%, river distance 25%, slope 25%, absolute elevation 20%; indicative filters for slope, elevation, and distance",
+  "limits": "NOT simulated inundation or flood depth. No rainfall, flow, tidal, infrastructure, land-cover or calibration inputs. Southern estuary outside available DEM.",
+  "coverage": {
+    "valid_pixels": 297943,
+    "total_pixels": 618272
+  }
+}

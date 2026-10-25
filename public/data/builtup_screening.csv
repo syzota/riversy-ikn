@@ -1,0 +1,2561 @@
+﻿osm_id,jenis_bangunan,kelas_indikatif,kelas_angka,metode,piksel_valid
+relation/8241577,industrial,Tinggi,3,indicative_raster_intersection,19
+relation/8241604,industrial,Tinggi,3,indicative_raster_intersection,41
+relation/17610705,yes,Tinggi,3,indicative_raster_intersection,1
+relation/17610762,yes,Tinggi,3,indicative_raster_intersection,2
+relation/19276758,roof,Belum diklasifikasikan,,no_valid_zonation,0
+relation/19282389,yes,Belum diklasifikasikan,,no_valid_zonation,0
+relation/19282390,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/576711018,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/576711019,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/576711020,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/576711021,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/576711022,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156110,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156119,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156121,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156123,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156126,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156128,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156134,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156141,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156146,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156148,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156159,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156176,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156177,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156178,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156182,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156188,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156192,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156197,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156198,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156199,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156200,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156201,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156203,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156204,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156205,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156207,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156208,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156209,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156210,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156212,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156213,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156214,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156216,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579156218,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156220,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156221,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156223,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156224,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156225,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156226,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156227,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156229,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156230,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156231,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156232,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156233,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156235,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156236,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156237,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156239,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156240,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156241,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156242,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156243,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156245,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156246,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156247,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156249,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156250,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156251,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156253,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156254,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156255,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156256,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156258,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156259,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156260,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156261,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156263,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156264,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156265,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156266,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156267,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156269,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156270,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156273,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156274,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156275,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156276,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156278,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156279,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156280,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156281,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156283,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156284,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156285,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156286,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156288,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156289,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156290,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156291,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156293,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156294,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156295,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156296,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156770,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156801,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156804,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156807,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156811,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156814,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156817,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156820,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156825,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156828,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156831,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156834,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156837,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156840,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156842,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156845,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156847,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156851,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156853,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156857,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156859,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156863,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156865,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156867,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156871,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156874,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156877,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156880,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156882,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156884,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156887,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156889,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156891,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156892,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156894,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156896,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156897,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156898,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156899,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156900,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156901,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156902,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156903,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156904,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156905,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156906,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156907,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156908,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156909,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156911,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156912,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156914,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156916,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156918,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156919,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156921,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156922,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156923,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156925,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156927,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156928,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156930,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156932,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156934,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156936,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156937,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156939,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156940,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156942,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156945,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156947,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156949,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156951,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156952,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156953,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156954,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156955,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156956,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156957,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156958,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156959,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156960,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579156961,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157124,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157125,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157126,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157143,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157145,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157147,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157150,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157152,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157155,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157157,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157159,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157161,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157163,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157165,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157168,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157171,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157175,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157178,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157181,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157184,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157187,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157190,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157193,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157196,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157200,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157202,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157205,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157208,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157211,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157214,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157217,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157220,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157222,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157226,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157229,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157232,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157235,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157238,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157240,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157243,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157246,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157249,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157251,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157254,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157257,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157259,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157261,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157263,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157266,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157268,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157270,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157272,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157274,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157276,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157279,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157281,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157283,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157285,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157287,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157289,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157291,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157293,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157295,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157296,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157297,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157298,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157299,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157300,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157301,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157302,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157303,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157304,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157305,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157306,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157307,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157308,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157309,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157310,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157311,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157312,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157313,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157314,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157315,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157316,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157317,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157318,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157319,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157320,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157321,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157322,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157323,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157324,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157325,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157326,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157327,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157328,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157329,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157330,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157331,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157332,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157333,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157334,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157335,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157336,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157337,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157338,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157339,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157340,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157341,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157342,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157343,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157344,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157345,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157346,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157347,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157348,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157349,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157350,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157351,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157352,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157353,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157354,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157355,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157356,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157357,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157358,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157360,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157361,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157362,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157363,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157364,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157365,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157366,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157367,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157368,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157369,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157370,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157371,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157372,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157373,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157375,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157376,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579157378,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157380,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157381,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157383,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157384,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157385,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157387,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157390,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157392,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157394,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157396,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157397,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157398,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157399,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157400,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157402,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157403,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157404,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157405,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579157406,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/579159647,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159648,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159649,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159650,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159652,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159653,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159654,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159655,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159656,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159657,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159658,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159659,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/579159660,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/580771028,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/580785828,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190451,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190452,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190453,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190454,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190455,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190456,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190457,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190458,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190459,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190460,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190461,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190462,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190463,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190464,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190465,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190466,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190467,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190468,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190469,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190470,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190471,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190472,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190473,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190474,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190475,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190476,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190477,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190478,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190479,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190480,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190481,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190482,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190483,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190484,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190485,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581190486,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191247,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191248,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191249,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191250,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191251,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191252,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191253,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191254,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191255,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191256,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191257,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191259,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191260,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191261,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191262,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191263,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191264,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191265,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191266,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191267,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191268,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191269,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191270,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191271,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191272,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191273,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191274,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191275,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191276,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191277,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191278,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191279,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191280,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191281,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191282,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191284,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191285,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191286,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191287,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191288,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191289,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191290,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191291,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191292,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191293,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191294,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191295,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191296,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191297,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191298,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191299,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191300,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191301,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191302,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191303,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191304,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191305,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191306,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191307,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191308,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191309,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191310,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191311,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191312,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191313,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191314,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191315,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191875,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191876,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191877,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191878,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191879,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191880,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191881,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191882,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191883,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191884,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191885,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191886,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191887,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191888,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191890,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191891,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191892,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191893,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191894,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191895,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191896,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191897,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191898,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191899,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191900,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191901,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191902,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191903,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191904,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191905,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191906,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191907,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191908,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191909,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191910,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191912,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191913,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191914,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191915,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191916,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191917,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191918,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191919,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191920,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191921,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191922,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191923,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191924,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191925,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191926,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191927,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191928,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191929,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191930,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191931,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191932,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191933,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191934,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191935,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191936,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191937,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191938,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191939,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191940,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191941,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581191942,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/581192694,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/627377354,yes,Sedang,2,indicative_raster_intersection,2
+way/627377358,yes,Rendah,1,indicative_raster_intersection,1
+way/627389331,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/627389332,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/627389333,yes,Belum diklasifikasikan,,outside_dem_extent,0
+way/954924593,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924594,yes,Tinggi,3,indicative_raster_intersection,2
+way/954924595,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924596,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924597,yes,Tinggi,3,indicative_raster_intersection,2
+way/954924598,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924599,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924600,yes,Tinggi,3,indicative_raster_intersection,2
+way/954924601,yes,Tinggi,3,indicative_raster_intersection,2
+way/954924602,yes,Tinggi,3,indicative_raster_intersection,2
+way/954924603,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924605,yes,Tinggi,3,indicative_raster_intersection,1
+way/954924607,yes,Tinggi,3,indicative_raster_intersection,3
+way/954924608,yes,Sedang,2,indicative_raster_intersection,2
+way/954924614,yes,Sedang,2,indicative_raster_intersection,3
+way/954924615,yes,Sedang,2,indicative_raster_intersection,2
+way/954924616,yes,Sedang,2,indicative_raster_intersection,2
+way/954924617,yes,Sedang,2,indicative_raster_intersection,2
+way/954924623,yes,Rendah,1,indicative_raster_intersection,1
+way/954925213,yes,Rendah,1,indicative_raster_intersection,1
+way/955150410,yes,Sedang,2,indicative_raster_intersection,1
+way/955150411,yes,Tinggi,3,indicative_raster_intersection,2
+way/955150412,yes,Tinggi,3,indicative_raster_intersection,1
+way/955150413,yes,Tinggi,3,indicative_raster_intersection,1
+way/955150414,yes,Tinggi,3,indicative_raster_intersection,4
+way/955150415,yes,Tinggi,3,indicative_raster_intersection,2
+way/955150416,yes,Tinggi,3,indicative_raster_intersection,2
+way/955150417,yes,Tinggi,3,indicative_raster_intersection,3
+way/955150418,yes,Tinggi,3,indicative_raster_intersection,2
+way/955150419,yes,Tinggi,3,indicative_raster_intersection,1
+way/955150420,yes,Tinggi,3,indicative_raster_intersection,1
+way/955150421,yes,Tinggi,3,indicative_raster_intersection,1
+way/955150422,yes,Sedang,2,indicative_raster_intersection,1
+way/955150423,yes,Sedang,2,indicative_raster_intersection,4
+way/955150424,yes,Tinggi,3,indicative_raster_intersection,2
+way/955150425,yes,Sedang,2,indicative_raster_intersection,1
+way/955150426,yes,Tinggi,3,indicative_raster_intersection,2
+way/955150427,yes,Sedang,2,indicative_raster_intersection,2
+way/955150428,yes,Sedang,2,indicative_raster_intersection,1
+way/955150429,yes,Sedang,2,indicative_raster_intersection,1
+way/955150430,yes,Sedang,2,indicative_raster_intersection,2
+way/955151452,yes,Rendah,1,indicative_raster_intersection,1
+way/955151453,yes,Rendah,1,indicative_raster_intersection,1
+way/955151454,yes,Sedang,2,indicative_raster_intersection,2
+way/955151455,yes,Rendah,1,indicative_raster_intersection,1
+way/955151456,yes,Rendah,1,indicative_raster_intersection,2
+way/955151457,yes,Sedang,2,indicative_raster_intersection,2
+way/955151458,yes,Rendah,1,indicative_raster_intersection,2
+way/955152067,yes,Tinggi,3,indicative_raster_intersection,1
+way/955152068,yes,Tinggi,3,indicative_raster_intersection,1
+way/955152069,yes,Tinggi,3,indicative_raster_intersection,2
+way/955152070,yes,Tinggi,3,indicative_raster_intersection,1
+way/955152071,yes,Tinggi,3,indicative_raster_intersection,2
+way/955152072,yes,Tinggi,3,indicative_raster_intersection,2
+way/955152360,yes,Sedang,2,indicative_raster_intersection,1
+way/955152361,yes,Sedang,2,indicative_raster_intersection,1
+way/955152362,industrial,Tinggi,3,indicative_raster_intersection,2
+way/955152363,industrial,Tinggi,3,indicative_raster_intersection,1
+way/955152364,industrial,Tinggi,3,indicative_raster_intersection,2
+way/955152365,industrial,Tinggi,3,indicative_raster_intersection,1
+way/955152366,industrial,Tinggi,3,indicative_raster_intersection,1
+way/955152367,industrial,Tinggi,3,indicative_raster_intersection,2
+way/955152368,industrial,Tinggi,3,indicative_raster_intersection,1
+way/955153227,yes,Rendah,1,indicative_raster_intersection,1
+way/955153228,yes,Sedang,2,indicative_raster_intersection,1
+way/955153229,yes,Sedang,2,indicative_raster_intersection,2
+way/955153230,yes,Sedang,2,indicative_raster_intersection,2
+way/955153231,yes,Rendah,1,indicative_raster_intersection,1
+way/955153232,yes,Rendah,1,indicative_raster_intersection,2
+way/955192551,house,Rendah,1,indicative_raster_intersection,2
+way/955192552,house,Rendah,1,indicative_raster_intersection,4
+way/955192553,house,Rendah,1,indicative_raster_intersection,2
+way/955192554,house,Rendah,1,indicative_raster_intersection,2
+way/955192555,house,Rendah,1,indicative_raster_intersection,2
+way/955192556,house,Rendah,1,indicative_raster_intersection,2
+way/955192557,house,Rendah,1,indicative_raster_intersection,1
+way/955192558,house,Rendah,1,indicative_raster_intersection,1
+way/955192559,house,Rendah,1,indicative_raster_intersection,2
+way/955192560,house,Rendah,1,indicative_raster_intersection,1
+way/955192561,house,Rendah,1,indicative_raster_intersection,1
+way/955211462,yes,Sedang,2,indicative_raster_intersection,2
+way/955211463,yes,Rendah,1,indicative_raster_intersection,2
+way/955211464,yes,Rendah,1,indicative_raster_intersection,2
+way/955211465,yes,Rendah,1,indicative_raster_intersection,1
+way/955211466,yes,Sedang,2,indicative_raster_intersection,4
+way/955211467,yes,Sedang,2,indicative_raster_intersection,2
+way/955211468,yes,Sedang,2,indicative_raster_intersection,2
+way/955211469,yes,Sedang,2,indicative_raster_intersection,2
+way/955211470,yes,Rendah,1,indicative_raster_intersection,2
+way/955211471,yes,Rendah,1,indicative_raster_intersection,2
+way/955211472,yes,Rendah,1,indicative_raster_intersection,2
+way/955211473,yes,Rendah,1,indicative_raster_intersection,1
+way/955211474,yes,Sedang,2,indicative_raster_intersection,2
+way/955211475,yes,Sedang,2,indicative_raster_intersection,2
+way/955211476,yes,Sedang,2,indicative_raster_intersection,1
+way/955211477,yes,Sedang,2,indicative_raster_intersection,2
+way/955211478,yes,Sedang,2,indicative_raster_intersection,1
+way/955211479,yes,Sedang,2,indicative_raster_intersection,1
+way/955211480,yes,Sedang,2,indicative_raster_intersection,4
+way/955211481,yes,Sedang,2,indicative_raster_intersection,1
+way/955211482,yes,Sedang,2,indicative_raster_intersection,1
+way/955211483,yes,Sedang,2,indicative_raster_intersection,4
+way/955211484,yes,Sedang,2,indicative_raster_intersection,2
+way/955211485,yes,Tinggi,3,indicative_raster_intersection,1
+way/955211486,yes,Sedang,2,indicative_raster_intersection,1
+way/955211487,yes,Tinggi,3,indicative_raster_intersection,2
+way/955211488,yes,Sedang,2,indicative_raster_intersection,1
+way/955211489,yes,Tinggi,3,indicative_raster_intersection,2
+way/955211490,yes,Tinggi,3,indicative_raster_intersection,2
+way/955211491,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217435,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217436,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217437,yes,Sedang,2,indicative_raster_intersection,1
+way/955217438,yes,Sedang,2,indicative_raster_intersection,1
+way/955217439,yes,Tinggi,3,indicative_raster_intersection,2
+way/955217440,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217441,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217442,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217443,yes,Sedang,2,indicative_raster_intersection,1
+way/955217444,yes,Sedang,2,indicative_raster_intersection,2
+way/955217445,yes,Tinggi,3,indicative_raster_intersection,2
+way/955217446,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217447,yes,Tinggi,3,indicative_raster_intersection,2
+way/955217448,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217449,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217450,yes,Tinggi,3,indicative_raster_intersection,2
+way/955217451,yes,Tinggi,3,indicative_raster_intersection,4
+way/955217452,yes,Sedang,2,indicative_raster_intersection,1
+way/955217453,yes,Sedang,2,indicative_raster_intersection,1
+way/955217454,yes,Sedang,2,indicative_raster_intersection,1
+way/955217455,yes,Sedang,2,indicative_raster_intersection,2
+way/955217456,yes,Tinggi,3,indicative_raster_intersection,2
+way/955217457,yes,Tinggi,3,indicative_raster_intersection,1
+way/955217458,yes,Tinggi,3,indicative_raster_intersection,2
+way/955222788,yes,Tinggi,3,indicative_raster_intersection,2
+way/955222789,yes,Tinggi,3,indicative_raster_intersection,2
+way/955222790,yes,Sedang,2,indicative_raster_intersection,1
+way/955222791,yes,Sedang,2,indicative_raster_intersection,1
+way/955222792,yes,Tinggi,3,indicative_raster_intersection,3
+way/955222793,yes,Tinggi,3,indicative_raster_intersection,3
+way/955222794,yes,Tinggi,3,indicative_raster_intersection,1
+way/955222797,yes,Sedang,2,indicative_raster_intersection,1
+way/955222798,yes,Sedang,2,indicative_raster_intersection,2
+way/955222799,yes,Sedang,2,indicative_raster_intersection,1
+way/955222803,yes,Rendah,1,indicative_raster_intersection,1
+way/955222804,yes,Sedang,2,indicative_raster_intersection,1
+way/955222805,yes,Tinggi,3,indicative_raster_intersection,1
+way/955222806,yes,Sedang,2,indicative_raster_intersection,1
+way/955222807,yes,Sedang,2,indicative_raster_intersection,2
+way/955222808,yes,Sedang,2,indicative_raster_intersection,1
+way/955222809,yes,Sedang,2,indicative_raster_intersection,2
+way/955222810,yes,Sedang,2,indicative_raster_intersection,1
+way/955222811,yes,Sedang,2,indicative_raster_intersection,1
+way/955222812,yes,Sedang,2,indicative_raster_intersection,1
+way/955222813,yes,Tinggi,3,indicative_raster_intersection,3
+way/955222814,yes,Tinggi,3,indicative_raster_intersection,1
+way/955222815,yes,Tinggi,3,indicative_raster_intersection,1
+way/955225526,yes,Tinggi,3,indicative_raster_intersection,1
+way/955225527,yes,Tinggi,3,indicative_raster_intersection,1
+way/955225528,yes,Sedang,2,indicative_raster_intersection,1
+way/955225529,yes,Sedang,2,indicative_raster_intersection,2
+way/955225530,yes,Sedang,2,indicative_raster_intersection,2
+way/955225531,yes,Sedang,2,indicative_raster_intersection,3
+way/955225532,yes,Sedang,2,indicative_raster_intersection,1
+way/955225533,yes,Sedang,2,indicative_raster_intersection,1
+way/955225534,yes,Sedang,2,indicative_raster_intersection,1
+way/955225535,yes,Sedang,2,indicative_raster_intersection,2
+way/955232286,yes,Sedang,2,indicative_raster_intersection,1
+way/955232287,yes,Tinggi,3,indicative_raster_intersection,3
+way/955232288,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232289,yes,Sedang,2,indicative_raster_intersection,1
+way/955232290,yes,Sedang,2,indicative_raster_intersection,1
+way/955232291,yes,Sedang,2,indicative_raster_intersection,1
+way/955232292,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232293,yes,Tinggi,3,indicative_raster_intersection,1
+way/955232294,yes,Tinggi,3,indicative_raster_intersection,3
+way/955232295,yes,Tinggi,3,indicative_raster_intersection,3
+way/955232296,yes,Tinggi,3,indicative_raster_intersection,3
+way/955232297,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232298,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232299,yes,Tinggi,3,indicative_raster_intersection,1
+way/955232300,yes,Tinggi,3,indicative_raster_intersection,1
+way/955232301,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232302,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232303,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232304,yes,Tinggi,3,indicative_raster_intersection,4
+way/955232305,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232306,yes,Sedang,2,indicative_raster_intersection,1
+way/955232307,yes,Tinggi,3,indicative_raster_intersection,3
+way/955232308,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232309,yes,Tinggi,3,indicative_raster_intersection,1
+way/955232310,yes,Sedang,2,indicative_raster_intersection,1
+way/955232311,yes,Sedang,2,indicative_raster_intersection,1
+way/955232312,yes,Tinggi,3,indicative_raster_intersection,2
+way/955232313,yes,Sedang,2,indicative_raster_intersection,2
+way/955243171,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243172,yes,Tinggi,3,indicative_raster_intersection,3
+way/955243173,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243174,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243175,yes,Sedang,2,indicative_raster_intersection,3
+way/955243176,yes,Sedang,2,indicative_raster_intersection,1
+way/955243177,yes,Sedang,2,indicative_raster_intersection,1
+way/955243178,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243179,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243180,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243181,yes,Sedang,2,indicative_raster_intersection,1
+way/955243182,yes,Sedang,2,indicative_raster_intersection,1
+way/955243183,yes,Sedang,2,indicative_raster_intersection,1
+way/955243184,yes,Sedang,2,indicative_raster_intersection,1
+way/955243185,yes,Sedang,2,indicative_raster_intersection,1
+way/955243186,yes,Sedang,2,indicative_raster_intersection,1
+way/955243187,yes,Sedang,2,indicative_raster_intersection,1
+way/955243188,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243189,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243190,yes,Sedang,2,indicative_raster_intersection,2
+way/955243191,yes,Sedang,2,indicative_raster_intersection,2
+way/955243192,yes,Sedang,2,indicative_raster_intersection,2
+way/955243193,yes,Sedang,2,indicative_raster_intersection,3
+way/955243194,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243195,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243196,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243197,yes,Sedang,2,indicative_raster_intersection,1
+way/955243198,yes,Sedang,2,indicative_raster_intersection,1
+way/955243199,yes,Sedang,2,indicative_raster_intersection,1
+way/955243200,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243201,yes,Tinggi,3,indicative_raster_intersection,1
+way/955243202,yes,Tinggi,3,indicative_raster_intersection,2
+way/955243203,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245817,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245818,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245819,yes,Tinggi,3,indicative_raster_intersection,2
+way/955245820,yes,Tinggi,3,indicative_raster_intersection,3
+way/955245821,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245822,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245823,yes,Tinggi,3,indicative_raster_intersection,4
+way/955245824,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245825,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245826,yes,Tinggi,3,indicative_raster_intersection,1
+way/955245827,yes,Sedang,2,indicative_raster_intersection,1
+way/955245828,yes,Sedang,2,indicative_raster_intersection,1
+way/955245829,yes,Sedang,2,indicative_raster_intersection,2
+way/955245830,yes,Sedang,2,indicative_raster_intersection,1
+way/955245831,yes,Sedang,2,indicative_raster_intersection,1
+way/955245832,yes,Sedang,2,indicative_raster_intersection,2
+way/955246667,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252870,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252871,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252872,yes,Sedang,2,indicative_raster_intersection,1
+way/955252873,yes,Sedang,2,indicative_raster_intersection,1
+way/955252874,yes,Sedang,2,indicative_raster_intersection,2
+way/955252875,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252876,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252877,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252879,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252880,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252881,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252882,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252883,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252884,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252885,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252886,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252887,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252889,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252890,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252891,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252892,yes,Tinggi,3,indicative_raster_intersection,2
+way/955252893,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252894,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252895,yes,Tinggi,3,indicative_raster_intersection,3
+way/955252896,yes,Tinggi,3,indicative_raster_intersection,1
+way/955252897,yes,Tinggi,3,indicative_raster_intersection,1
+way/955265296,yes,Tinggi,3,indicative_raster_intersection,2
+way/955265297,yes,Tinggi,3,indicative_raster_intersection,2
+way/955265298,yes,Tinggi,3,indicative_raster_intersection,2
+way/955265299,yes,Tinggi,3,indicative_raster_intersection,2
+way/955265300,yes,Tinggi,3,indicative_raster_intersection,2
+way/955265301,yes,Tinggi,3,indicative_raster_intersection,1
+way/955265302,yes,Tinggi,3,indicative_raster_intersection,2
+way/955265303,yes,Tinggi,3,indicative_raster_intersection,1
+way/955265304,yes,Tinggi,3,indicative_raster_intersection,1
+way/955265305,yes,Tinggi,3,indicative_raster_intersection,1
+way/955265306,yes,Tinggi,3,indicative_raster_intersection,4
+way/955265771,yes,Sedang,2,indicative_raster_intersection,2
+way/955265772,yes,Sedang,2,indicative_raster_intersection,2
+way/955348515,yes,Sedang,2,indicative_raster_intersection,1
+way/955348704,yes,Rendah,1,indicative_raster_intersection,1
+way/955349695,yes,Sedang,2,indicative_raster_intersection,4
+way/955349696,yes,Sedang,2,indicative_raster_intersection,1
+way/955349697,yes,Sedang,2,indicative_raster_intersection,2
+way/955349698,yes,Sedang,2,indicative_raster_intersection,1
+way/955349699,yes,Sedang,2,indicative_raster_intersection,1
+way/955349700,yes,Sedang,2,indicative_raster_intersection,2
+way/955349701,yes,Sedang,2,indicative_raster_intersection,1
+way/955349702,yes,Sedang,2,indicative_raster_intersection,2
+way/955349703,yes,Sedang,2,indicative_raster_intersection,2
+way/955349704,yes,Sedang,2,indicative_raster_intersection,1
+way/955349705,yes,Sedang,2,indicative_raster_intersection,1
+way/955349706,yes,Sedang,2,indicative_raster_intersection,2
+way/955349707,yes,Sedang,2,indicative_raster_intersection,2
+way/955349708,yes,Sedang,2,indicative_raster_intersection,2
+way/955349709,yes,Sedang,2,indicative_raster_intersection,1
+way/955349710,yes,Sedang,2,indicative_raster_intersection,2
+way/955349711,yes,Sedang,2,indicative_raster_intersection,1
+way/955352997,yes,Sedang,2,indicative_raster_intersection,1
+way/955352998,yes,Sedang,2,indicative_raster_intersection,2
+way/955352999,yes,Rendah,1,indicative_raster_intersection,2
+way/955353000,yes,Sedang,2,indicative_raster_intersection,2
+way/955353001,yes,Sedang,2,indicative_raster_intersection,1
+way/955353002,yes,Sedang,2,indicative_raster_intersection,1
+way/955353003,yes,Sedang,2,indicative_raster_intersection,1
+way/955353004,yes,Sedang,2,indicative_raster_intersection,1
+way/955353005,yes,Sedang,2,indicative_raster_intersection,2
+way/955353006,yes,Sedang,2,indicative_raster_intersection,1
+way/955353007,yes,Sedang,2,indicative_raster_intersection,1
+way/955353008,yes,Rendah,1,indicative_raster_intersection,1
+way/955355235,yes,Sedang,2,indicative_raster_intersection,1
+way/955355236,yes,Sedang,2,indicative_raster_intersection,1
+way/955355237,yes,Tinggi,3,indicative_raster_intersection,2
+way/955355238,yes,Tinggi,3,indicative_raster_intersection,2
+way/955355239,yes,Tinggi,3,indicative_raster_intersection,3
+way/955355240,yes,Tinggi,3,indicative_raster_intersection,2
+way/955355241,yes,Tinggi,3,indicative_raster_intersection,1
+way/955355242,yes,Tinggi,3,indicative_raster_intersection,1
+way/955355243,yes,Tinggi,3,indicative_raster_intersection,1
+way/955355244,yes,Tinggi,3,indicative_raster_intersection,1
+way/955355245,yes,Sedang,2,indicative_raster_intersection,1
+way/955355246,yes,Sedang,2,indicative_raster_intersection,1
+way/955358456,yes,Tinggi,3,indicative_raster_intersection,4
+way/955358457,yes,Tinggi,3,indicative_raster_intersection,1
+way/955358458,yes,Tinggi,3,indicative_raster_intersection,1
+way/955358459,yes,Tinggi,3,indicative_raster_intersection,2
+way/955358460,yes,Sedang,2,indicative_raster_intersection,1
+way/955358461,yes,Tinggi,3,indicative_raster_intersection,3
+way/955358462,yes,Tinggi,3,indicative_raster_intersection,2
+way/955358463,yes,Tinggi,3,indicative_raster_intersection,1
+way/955358464,yes,Sedang,2,indicative_raster_intersection,2
+way/955358465,yes,Sedang,2,indicative_raster_intersection,2
+way/955358466,yes,Sedang,2,indicative_raster_intersection,2
+way/955358467,yes,Sedang,2,indicative_raster_intersection,2
+way/955358468,yes,Tinggi,3,indicative_raster_intersection,2
+way/955358469,yes,Tinggi,3,indicative_raster_intersection,4
+way/955361556,yes,Sedang,2,indicative_raster_intersection,2
+way/955361557,yes,Sedang,2,indicative_raster_intersection,1
+way/955361558,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361559,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361560,yes,Tinggi,3,indicative_raster_intersection,2
+way/955361561,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361562,yes,Tinggi,3,indicative_raster_intersection,2
+way/955361563,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361564,yes,Tinggi,3,indicative_raster_intersection,2
+way/955361565,yes,Tinggi,3,indicative_raster_intersection,2
+way/955361566,yes,Sedang,2,indicative_raster_intersection,2
+way/955361567,yes,Sedang,2,indicative_raster_intersection,2
+way/955361568,yes,Tinggi,3,indicative_raster_intersection,2
+way/955361569,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361570,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361571,yes,Tinggi,3,indicative_raster_intersection,1
+way/955361572,yes,Tinggi,3,indicative_raster_intersection,2
+way/955361573,yes,Tinggi,3,indicative_raster_intersection,2
+way/955364724,yes,Tinggi,3,indicative_raster_intersection,1
+way/955364725,yes,Tinggi,3,indicative_raster_intersection,1
+way/955364726,yes,Tinggi,3,indicative_raster_intersection,1
+way/955364727,yes,Tinggi,3,indicative_raster_intersection,2
+way/955364728,yes,Tinggi,3,indicative_raster_intersection,1
+way/955364729,yes,Tinggi,3,indicative_raster_intersection,2
+way/955364730,yes,Tinggi,3,indicative_raster_intersection,3
+way/955364731,yes,Tinggi,3,indicative_raster_intersection,1
+way/955364732,yes,Tinggi,3,indicative_raster_intersection,2
+way/955364733,yes,Tinggi,3,indicative_raster_intersection,1
+way/955364734,yes,Tinggi,3,indicative_raster_intersection,2
+way/955364735,yes,Tinggi,3,indicative_raster_intersection,2
+way/955368694,yes,Sedang,2,indicative_raster_intersection,1
+way/955368695,yes,Sedang,2,indicative_raster_intersection,2
+way/955368696,yes,Sedang,2,indicative_raster_intersection,2
+way/955368697,yes,Sedang,2,indicative_raster_intersection,1
+way/955368698,yes,Tinggi,3,indicative_raster_intersection,2
+way/955368699,yes,Tinggi,3,indicative_raster_intersection,1
+way/955368700,yes,Tinggi,3,indicative_raster_intersection,1
+way/955368701,yes,Tinggi,3,indicative_raster_intersection,2
+way/955368702,yes,Sedang,2,indicative_raster_intersection,4
+way/955368703,yes,Sedang,2,indicative_raster_intersection,1
+way/955374105,yes,Sedang,2,indicative_raster_intersection,1
+way/955374106,yes,Sedang,2,indicative_raster_intersection,1
+way/955374107,yes,Sedang,2,indicative_raster_intersection,2
+way/955374108,yes,Sedang,2,indicative_raster_intersection,1
+way/955374109,yes,Sedang,2,indicative_raster_intersection,2
+way/955374110,yes,Sedang,2,indicative_raster_intersection,3
+way/955374111,yes,Sedang,2,indicative_raster_intersection,2
+way/955374112,yes,Sedang,2,indicative_raster_intersection,1
+way/955374113,yes,Sedang,2,indicative_raster_intersection,1
+way/955374114,yes,Sedang,2,indicative_raster_intersection,1
+way/955374115,yes,Tinggi,3,indicative_raster_intersection,1
+way/955374116,yes,Tinggi,3,indicative_raster_intersection,1
+way/955374117,yes,Tinggi,3,indicative_raster_intersection,2
+way/955374118,yes,Tinggi,3,indicative_raster_intersection,2
+way/955374119,yes,Tinggi,3,indicative_raster_intersection,2
+way/955374120,yes,Tinggi,3,indicative_raster_intersection,2
+way/955374701,yes,Tinggi,3,indicative_raster_intersection,1
+way/955374702,yes,Sedang,2,indicative_raster_intersection,1
+way/955374703,yes,Tinggi,3,indicative_raster_intersection,2
+way/955374704,yes,Sedang,2,indicative_raster_intersection,1
+way/955374705,yes,Sedang,2,indicative_raster_intersection,1
+way/955374706,yes,Sedang,2,indicative_raster_intersection,2
+way/955375697,yes,Sedang,2,indicative_raster_intersection,2
+way/955375698,yes,Sedang,2,indicative_raster_intersection,2
+way/955375699,yes,Tinggi,3,indicative_raster_intersection,3
+way/955375700,yes,Tinggi,3,indicative_raster_intersection,1
+way/955375701,yes,Tinggi,3,indicative_raster_intersection,1
+way/955375702,yes,Tinggi,3,indicative_raster_intersection,1
+way/955375703,yes,Tinggi,3,indicative_raster_intersection,2
+way/955375704,yes,Tinggi,3,indicative_raster_intersection,2
+way/955375705,yes,Tinggi,3,indicative_raster_intersection,1
+way/955508680,yes,Rendah,1,indicative_raster_intersection,2
+way/955508681,yes,Rendah,1,indicative_raster_intersection,2
+way/955508682,yes,Rendah,1,indicative_raster_intersection,2
+way/955508683,yes,Rendah,1,indicative_raster_intersection,1
+way/955508684,yes,Sedang,2,indicative_raster_intersection,3
+way/955508685,yes,Rendah,1,indicative_raster_intersection,2
+way/955508686,yes,Rendah,1,indicative_raster_intersection,1
+way/955508687,yes,Rendah,1,indicative_raster_intersection,1
+way/955508688,yes,Rendah,1,indicative_raster_intersection,2
+way/955508689,yes,Rendah,1,indicative_raster_intersection,2
+way/955508690,yes,Rendah,1,indicative_raster_intersection,2
+way/955508691,yes,Rendah,1,indicative_raster_intersection,2
+way/955508692,yes,Rendah,1,indicative_raster_intersection,2
+way/955508693,yes,Rendah,1,indicative_raster_intersection,4
+way/955508694,yes,Rendah,1,indicative_raster_intersection,2
+way/955508695,yes,Rendah,1,indicative_raster_intersection,1
+way/955508696,yes,Rendah,1,indicative_raster_intersection,1
+way/955508697,yes,Sedang,2,indicative_raster_intersection,2
+way/955508698,yes,Sedang,2,indicative_raster_intersection,1
+way/955508699,yes,Sedang,2,indicative_raster_intersection,1
+way/955508700,yes,Sedang,2,indicative_raster_intersection,2
+way/955508701,yes,Sedang,2,indicative_raster_intersection,1
+way/955508702,yes,Sedang,2,indicative_raster_intersection,1
+way/955508703,yes,Sedang,2,indicative_raster_intersection,2
+way/955508704,yes,Sedang,2,indicative_raster_intersection,1
+way/955509249,yes,Sedang,2,indicative_raster_intersection,2
+way/955509250,yes,Sedang,2,indicative_raster_intersection,1
+way/955509251,yes,Sedang,2,indicative_raster_intersection,1
+way/955509252,yes,Sedang,2,indicative_raster_intersection,1
+way/955509253,yes,Sedang,2,indicative_raster_intersection,1
+way/955510187,yes,Sedang,2,indicative_raster_intersection,1
+way/955510188,yes,Rendah,1,indicative_raster_intersection,1
+way/955511333,yes,Sedang,2,indicative_raster_intersection,2
+way/955511334,yes,Sedang,2,indicative_raster_intersection,2
+way/955511335,yes,Sedang,2,indicative_raster_intersection,2
+way/955511336,yes,Sedang,2,indicative_raster_intersection,1
+way/955511337,yes,Sedang,2,indicative_raster_intersection,1
+way/955511338,yes,Sedang,2,indicative_raster_intersection,1
+way/955511339,yes,Sedang,2,indicative_raster_intersection,1
+way/955511340,yes,Sedang,2,indicative_raster_intersection,2
+way/955511341,yes,Sedang,2,indicative_raster_intersection,2
+way/955511342,yes,Sedang,2,indicative_raster_intersection,1
+way/955511343,yes,Sedang,2,indicative_raster_intersection,1
+way/955512071,yes,Tinggi,3,indicative_raster_intersection,1
+way/955512072,yes,Tinggi,3,indicative_raster_intersection,2
+way/955512073,yes,Tinggi,3,indicative_raster_intersection,3
+way/955512074,yes,Tinggi,3,indicative_raster_intersection,2
+way/955512075,yes,Tinggi,3,indicative_raster_intersection,1
+way/955514619,yes,Sedang,2,indicative_raster_intersection,4
+way/955514620,yes,Tinggi,3,indicative_raster_intersection,3
+way/955514621,yes,Tinggi,3,indicative_raster_intersection,1
+way/955514622,yes,Tinggi,3,indicative_raster_intersection,2
+way/955514623,yes,Tinggi,3,indicative_raster_intersection,2
+way/955514624,yes,Tinggi,3,indicative_raster_intersection,2
+way/955514625,yes,Tinggi,3,indicative_raster_intersection,3
+way/955514626,yes,Tinggi,3,indicative_raster_intersection,1
+way/955514627,yes,Tinggi,3,indicative_raster_intersection,2
+way/955514628,yes,Tinggi,3,indicative_raster_intersection,1
+way/955514629,yes,Tinggi,3,indicative_raster_intersection,2
+way/955515408,yes,Tinggi,3,indicative_raster_intersection,3
+way/955515409,yes,Sedang,2,indicative_raster_intersection,2
+way/955515410,yes,Sedang,2,indicative_raster_intersection,1
+way/955515411,yes,Sedang,2,indicative_raster_intersection,2
+way/955515412,yes,Sedang,2,indicative_raster_intersection,1
+way/955515413,yes,Sedang,2,indicative_raster_intersection,2
+way/955515414,yes,Sedang,2,indicative_raster_intersection,1
+way/955515415,yes,Sedang,2,indicative_raster_intersection,2
+way/955515416,yes,Sedang,2,indicative_raster_intersection,1
+way/955515417,yes,Sedang,2,indicative_raster_intersection,1
+way/955515418,yes,Sedang,2,indicative_raster_intersection,2
+way/955515419,yes,Sedang,2,indicative_raster_intersection,1
+way/955515420,yes,Sedang,2,indicative_raster_intersection,1
+way/955515421,yes,Sedang,2,indicative_raster_intersection,2
+way/955515422,yes,Sedang,2,indicative_raster_intersection,1
+way/955515423,yes,Sedang,2,indicative_raster_intersection,1
+way/955515424,yes,Sedang,2,indicative_raster_intersection,1
+way/955515425,yes,Sedang,2,indicative_raster_intersection,1
+way/955515426,yes,Sedang,2,indicative_raster_intersection,2
+way/955515427,yes,Sedang,2,indicative_raster_intersection,1
+way/955515428,yes,Tinggi,3,indicative_raster_intersection,2
+way/955515429,yes,Sedang,2,indicative_raster_intersection,2
+way/955515430,yes,Tinggi,3,indicative_raster_intersection,1
+way/955515431,yes,Tinggi,3,indicative_raster_intersection,1
+way/955515432,yes,Tinggi,3,indicative_raster_intersection,1
+way/955515433,yes,Tinggi,3,indicative_raster_intersection,1
+way/955515434,yes,Tinggi,3,indicative_raster_intersection,2
+way/955515435,yes,Tinggi,3,indicative_raster_intersection,1
+way/955515436,yes,Tinggi,3,indicative_raster_intersection,2
+way/955515437,yes,Sedang,2,indicative_raster_intersection,1
+way/955515438,yes,Sedang,2,indicative_raster_intersection,2
+way/955516894,yes,Sedang,2,indicative_raster_intersection,1
+way/955516895,yes,Sedang,2,indicative_raster_intersection,1
+way/955516896,yes,Sedang,2,indicative_raster_intersection,1
+way/955516897,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516898,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516899,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516900,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516901,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516902,yes,Sedang,2,indicative_raster_intersection,2
+way/955516903,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516904,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516905,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516906,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516907,yes,Tinggi,3,indicative_raster_intersection,4
+way/955516908,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516909,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516910,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516911,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516912,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516913,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516914,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516915,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516916,yes,Tinggi,3,indicative_raster_intersection,4
+way/955516917,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516918,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516919,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516920,yes,Tinggi,3,indicative_raster_intersection,1
+way/955516921,yes,Tinggi,3,indicative_raster_intersection,2
+way/955516922,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518055,yes,Tinggi,3,indicative_raster_intersection,4
+way/955518056,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518057,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518058,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518059,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518060,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518061,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518062,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518063,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518064,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518065,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518066,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518067,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518068,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518069,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518070,yes,Sedang,2,indicative_raster_intersection,1
+way/955518071,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518072,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518073,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518074,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518075,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518076,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518077,yes,Sedang,2,indicative_raster_intersection,2
+way/955518078,yes,Sedang,2,indicative_raster_intersection,1
+way/955518079,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518080,yes,Tinggi,3,indicative_raster_intersection,2
+way/955518081,yes,Tinggi,3,indicative_raster_intersection,1
+way/955518082,yes,Rendah,1,indicative_raster_intersection,1
+way/955518083,yes,Sedang,2,indicative_raster_intersection,2
+way/955518084,yes,Sedang,2,indicative_raster_intersection,1
+way/955519176,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519177,yes,Tinggi,3,indicative_raster_intersection,2
+way/955519178,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519179,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519180,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519181,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519182,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519183,yes,Tinggi,3,indicative_raster_intersection,3
+way/955519184,yes,Tinggi,3,indicative_raster_intersection,2
+way/955519185,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519186,yes,Tinggi,3,indicative_raster_intersection,2
+way/955519187,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519188,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519189,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519859,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519860,yes,Tinggi,3,indicative_raster_intersection,2
+way/955519861,yes,Tinggi,3,indicative_raster_intersection,2
+way/955519862,yes,Tinggi,3,indicative_raster_intersection,2
+way/955519863,yes,Tinggi,3,indicative_raster_intersection,1
+way/955519864,yes,Tinggi,3,indicative_raster_intersection,1
+way/955523453,yes,Tinggi,3,indicative_raster_intersection,2
+way/955523454,yes,Tinggi,3,indicative_raster_intersection,2
+way/955523455,yes,Tinggi,3,indicative_raster_intersection,2
+way/955523456,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580126,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580127,yes,Sedang,2,indicative_raster_intersection,1
+way/955580128,yes,Sedang,2,indicative_raster_intersection,1
+way/955580129,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580130,yes,Tinggi,3,indicative_raster_intersection,2
+way/955580131,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580132,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580133,yes,Tinggi,3,indicative_raster_intersection,2
+way/955580134,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580135,yes,Sedang,2,indicative_raster_intersection,2
+way/955580136,yes,Sedang,2,indicative_raster_intersection,1
+way/955580137,yes,Tinggi,3,indicative_raster_intersection,2
+way/955580138,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580139,yes,Tinggi,3,indicative_raster_intersection,2
+way/955580140,yes,Sedang,2,indicative_raster_intersection,2
+way/955580141,yes,Sedang,2,indicative_raster_intersection,2
+way/955580142,yes,Tinggi,3,indicative_raster_intersection,1
+way/955580143,yes,Sedang,2,indicative_raster_intersection,1
+way/955580144,yes,Sedang,2,indicative_raster_intersection,1
+way/955580145,yes,Sedang,2,indicative_raster_intersection,1
+way/955580146,yes,Tinggi,3,indicative_raster_intersection,1
+way/955615532,yes,Tinggi,3,indicative_raster_intersection,2
+way/955615533,yes,Tinggi,3,indicative_raster_intersection,1
+way/955619719,yes,Rendah,1,indicative_raster_intersection,2
+way/955619720,yes,Rendah,1,indicative_raster_intersection,1
+way/955619721,yes,Rendah,1,indicative_raster_intersection,1
+way/955619722,yes,Rendah,1,indicative_raster_intersection,1
+way/955619723,yes,Rendah,1,indicative_raster_intersection,1
+way/955619724,yes,Rendah,1,indicative_raster_intersection,2
+way/955619725,yes,Rendah,1,indicative_raster_intersection,2
+way/955619726,yes,Rendah,1,indicative_raster_intersection,1
+way/955619727,yes,Rendah,1,indicative_raster_intersection,3
+way/955619728,yes,Rendah,1,indicative_raster_intersection,2
+way/955619729,yes,Rendah,1,indicative_raster_intersection,1
+way/955619730,yes,Rendah,1,indicative_raster_intersection,2
+way/955619731,yes,Rendah,1,indicative_raster_intersection,1
+way/955619732,yes,Sedang,2,indicative_raster_intersection,3
+way/955619733,yes,Sedang,2,indicative_raster_intersection,1
+way/955619734,yes,Sedang,2,indicative_raster_intersection,1
+way/955619735,yes,Sedang,2,indicative_raster_intersection,1
+way/955625777,yes,Rendah,1,indicative_raster_intersection,1
+way/955625778,yes,Rendah,1,indicative_raster_intersection,1
+way/955625779,yes,Rendah,1,indicative_raster_intersection,2
+way/955625780,yes,Sedang,2,indicative_raster_intersection,1
+way/955625781,yes,Sedang,2,indicative_raster_intersection,2
+way/955625782,yes,Rendah,1,indicative_raster_intersection,1
+way/955625783,yes,Rendah,1,indicative_raster_intersection,2
+way/955625784,yes,Rendah,1,indicative_raster_intersection,2
+way/955630261,yes,Rendah,1,indicative_raster_intersection,1
+way/955630262,yes,Rendah,1,indicative_raster_intersection,2
+way/955630263,yes,Rendah,1,indicative_raster_intersection,1
+way/955630264,yes,Rendah,1,indicative_raster_intersection,1
+way/955630265,yes,Rendah,1,indicative_raster_intersection,1
+way/955630266,yes,Rendah,1,indicative_raster_intersection,1
+way/955630267,yes,Rendah,1,indicative_raster_intersection,1
+way/955630268,yes,Rendah,1,indicative_raster_intersection,2
+way/955630269,yes,Rendah,1,indicative_raster_intersection,1
+way/955630270,yes,Rendah,1,indicative_raster_intersection,1
+way/955630271,yes,Sedang,2,indicative_raster_intersection,1
+way/955630272,yes,Sedang,2,indicative_raster_intersection,1
+way/955630273,yes,Sedang,2,indicative_raster_intersection,1
+way/955630274,yes,Sedang,2,indicative_raster_intersection,2
+way/955630275,yes,Sedang,2,indicative_raster_intersection,4
+way/955630276,yes,Sedang,2,indicative_raster_intersection,2
+way/955630277,yes,Tinggi,3,indicative_raster_intersection,2
+way/955630278,yes,Sedang,2,indicative_raster_intersection,1
+way/955630279,yes,Sedang,2,indicative_raster_intersection,2
+way/955630702,yes,Sedang,2,indicative_raster_intersection,1
+way/955630703,yes,Sedang,2,indicative_raster_intersection,2
+way/955630704,yes,Sedang,2,indicative_raster_intersection,1
+way/955630705,yes,Sedang,2,indicative_raster_intersection,1
+way/955630706,yes,Sedang,2,indicative_raster_intersection,1
+way/955630707,yes,Rendah,1,indicative_raster_intersection,2
+way/955630708,yes,Rendah,1,indicative_raster_intersection,1
+way/955630709,yes,Rendah,1,indicative_raster_intersection,1
+way/955630710,yes,Rendah,1,indicative_raster_intersection,1
+way/955630711,yes,Sedang,2,indicative_raster_intersection,2
+way/955631130,yes,Sedang,2,indicative_raster_intersection,1
+way/955631131,yes,Sedang,2,indicative_raster_intersection,1
+way/955631132,yes,Sedang,2,indicative_raster_intersection,1
+way/955631133,yes,Sedang,2,indicative_raster_intersection,1
+way/1009405617,yes,Tinggi,3,indicative_raster_intersection,3
+way/1098941795,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1098941796,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1098941797,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1098941798,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1098941799,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1098941800,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110190754,yes,Sedang,2,indicative_raster_intersection,2
+way/1110191224,yes,Sedang,2,indicative_raster_intersection,1
+way/1110191225,yes,Sedang,2,indicative_raster_intersection,3
+way/1110191226,yes,Tinggi,3,indicative_raster_intersection,2
+way/1110191227,yes,Tinggi,3,indicative_raster_intersection,2
+way/1110191228,yes,Tinggi,3,indicative_raster_intersection,1
+way/1110196997,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110196998,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110196999,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197000,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197001,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197002,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197003,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197004,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197005,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197006,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197007,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197008,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197009,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197010,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197011,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197012,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197013,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197014,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197015,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197016,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197017,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197018,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197019,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197020,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197021,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197519,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197520,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197521,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1110197522,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1181245958,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1255824891,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1283905737,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283905738,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283905739,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283905740,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283905741,yes,Tinggi,3,indicative_raster_intersection,4
+way/1283905742,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283905743,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283919179,yes,Sedang,2,indicative_raster_intersection,1
+way/1283919180,yes,Sedang,2,indicative_raster_intersection,2
+way/1283934419,yes,Tinggi,3,indicative_raster_intersection,4
+way/1283934420,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283934421,yes,Sedang,2,indicative_raster_intersection,1
+way/1283934422,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934423,yes,Sedang,2,indicative_raster_intersection,1
+way/1283934424,yes,Sedang,2,indicative_raster_intersection,1
+way/1283934425,yes,Sedang,2,indicative_raster_intersection,2
+way/1283934426,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283934427,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934428,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934429,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934432,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934433,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283934434,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283934435,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283934436,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934438,yes,Tinggi,3,indicative_raster_intersection,1
+way/1283934439,yes,Tinggi,3,indicative_raster_intersection,2
+way/1283934440,yes,Sedang,2,indicative_raster_intersection,1
+way/1283934441,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284079795,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284079796,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284082450,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284082451,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284082452,yes,Sedang,2,indicative_raster_intersection,1
+way/1284082453,yes,Sedang,2,indicative_raster_intersection,1
+way/1284082454,yes,Sedang,2,indicative_raster_intersection,2
+way/1284082455,yes,Sedang,2,indicative_raster_intersection,1
+way/1284082456,yes,Sedang,2,indicative_raster_intersection,2
+way/1284082457,yes,Sedang,2,indicative_raster_intersection,2
+way/1284082458,yes,Sedang,2,indicative_raster_intersection,1
+way/1284088700,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088701,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088702,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088703,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088704,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088705,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088706,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088707,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088708,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088709,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088710,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088711,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088712,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088713,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088714,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088715,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088716,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088717,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088718,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088719,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088720,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088721,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088722,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088723,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088724,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088725,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088726,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088727,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088728,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088729,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088730,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088731,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088732,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088733,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088734,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088735,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284088736,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284088737,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284301659,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301660,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301661,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301662,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301663,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284301664,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301665,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301666,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301668,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301669,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301670,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301671,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301672,semidetached_house,Tinggi,3,indicative_raster_intersection,2
+way/1284301673,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301674,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301675,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301676,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301677,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301678,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301679,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301680,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301681,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301682,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301683,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301684,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301685,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301686,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301687,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301688,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301689,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301690,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301691,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301692,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301693,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301694,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301695,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301696,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301697,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301698,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301699,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301700,yes,Sedang,2,indicative_raster_intersection,2
+way/1284301701,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301702,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301703,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301704,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301705,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301706,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301707,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301708,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301709,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301710,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301711,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301712,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301713,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301714,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301715,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301716,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301717,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301718,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301719,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301720,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301721,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301722,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301723,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301724,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301725,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301726,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301727,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301728,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284301729,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301730,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301731,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301732,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301733,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301734,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301735,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284301736,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301737,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301738,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301739,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284301740,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301741,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301742,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301744,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301745,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301746,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301747,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284301748,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301749,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284301750,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301751,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301752,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301753,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301754,yes,Sedang,2,indicative_raster_intersection,1
+way/1284301755,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301756,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301757,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301758,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301759,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301760,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301761,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301762,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284301763,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284301764,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608956,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284608957,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608958,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608959,yes,Tinggi,3,indicative_raster_intersection,6
+way/1284608960,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608961,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608962,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608963,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608964,yes,Sedang,2,indicative_raster_intersection,1
+way/1284608965,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284608966,yes,Sedang,2,indicative_raster_intersection,2
+way/1284608967,yes,Sedang,2,indicative_raster_intersection,1
+way/1284608968,yes,Sedang,2,indicative_raster_intersection,2
+way/1284608969,yes,Sedang,2,indicative_raster_intersection,1
+way/1284608970,yes,Sedang,2,indicative_raster_intersection,1
+way/1284608971,yes,Sedang,2,indicative_raster_intersection,1
+way/1284608972,yes,Sedang,2,indicative_raster_intersection,1
+way/1284608973,yes,Sedang,2,indicative_raster_intersection,2
+way/1284608979,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608985,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608986,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608987,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608988,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608989,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608990,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608991,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608992,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608993,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608994,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608995,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608996,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284608997,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608998,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284608999,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609000,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609001,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609002,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609003,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609004,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609005,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609006,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609007,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609008,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609009,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609010,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284609011,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609012,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284609013,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609014,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609015,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609018,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609019,yes,Sedang,2,indicative_raster_intersection,2
+way/1284609020,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609021,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609022,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609023,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609024,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609025,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609026,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609027,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609028,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1284609029,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609030,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609031,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609032,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609033,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609034,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609035,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609036,yes,Sedang,2,indicative_raster_intersection,2
+way/1284609037,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609038,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609039,yes,Sedang,2,indicative_raster_intersection,2
+way/1284609040,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609041,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609042,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609043,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609044,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609045,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284609046,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609047,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284609048,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609049,yes,Sedang,2,indicative_raster_intersection,2
+way/1284609050,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609051,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609052,yes,Sedang,2,indicative_raster_intersection,1
+way/1284609053,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609054,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609055,yes,Sedang,2,indicative_raster_intersection,2
+way/1284609056,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609057,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609058,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609059,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284609060,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609061,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284609062,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609063,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284609064,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284640735,yes,Sedang,2,indicative_raster_intersection,2
+way/1284640736,yes,Sedang,2,indicative_raster_intersection,2
+way/1284640737,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640738,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640739,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640740,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640741,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640742,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640743,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640744,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640745,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640746,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640747,yes,Sedang,2,indicative_raster_intersection,1
+way/1284640748,yes,Sedang,2,indicative_raster_intersection,1
+way/1284640749,yes,Sedang,2,indicative_raster_intersection,1
+way/1284640750,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640751,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640752,yes,Sedang,2,indicative_raster_intersection,1
+way/1284640753,yes,Sedang,2,indicative_raster_intersection,1
+way/1284640754,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640755,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640756,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640757,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284640758,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284640759,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641913,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641914,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641915,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284641916,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641917,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641918,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641919,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641920,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641921,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641922,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641923,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641924,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641925,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641926,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641927,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641928,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641929,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641930,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641931,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641932,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284641933,yes,Sedang,2,indicative_raster_intersection,1
+way/1284641934,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284641935,yes,Sedang,2,indicative_raster_intersection,2
+way/1284641936,yes,Sedang,2,indicative_raster_intersection,1
+way/1284641937,yes,Sedang,2,indicative_raster_intersection,2
+way/1284641938,yes,Sedang,2,indicative_raster_intersection,2
+way/1284641939,yes,Sedang,2,indicative_raster_intersection,1
+way/1284641940,yes,Sedang,2,indicative_raster_intersection,2
+way/1284641941,yes,Sedang,2,indicative_raster_intersection,1
+way/1284641942,yes,Sedang,2,indicative_raster_intersection,1
+way/1284641943,yes,Sedang,2,indicative_raster_intersection,2
+way/1284641944,yes,Sedang,2,indicative_raster_intersection,2
+way/1284641945,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641946,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284641947,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641948,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641949,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641950,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641951,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641952,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641953,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284641954,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647255,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647256,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647257,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647258,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284647259,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647260,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284647261,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284647262,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647263,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284647264,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284647265,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647266,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647267,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284647268,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284647269,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284648223,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648224,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648225,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648226,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284648227,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648228,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284648229,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284648230,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648231,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284648232,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648233,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648234,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648235,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648236,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648237,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648238,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648239,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648240,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648241,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284648242,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648243,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648244,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648245,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284648246,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284648247,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284648248,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284648249,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656534,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656535,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284656536,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656537,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656538,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656539,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656540,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656541,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656542,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656543,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656545,yes,Tinggi,3,indicative_raster_intersection,4
+way/1284656546,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656547,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656548,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656549,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656550,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656551,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656552,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656553,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656554,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656555,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656556,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656557,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656558,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656559,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656560,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284656561,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284656562,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284785305,yes,Sedang,2,indicative_raster_intersection,1
+way/1284788660,yes,Sedang,2,indicative_raster_intersection,1
+way/1284788661,yes,Sedang,2,indicative_raster_intersection,1
+way/1284788662,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788663,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788664,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788665,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788666,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788667,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788668,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788669,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788670,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788671,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788672,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788673,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788674,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788675,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788676,yes,Sedang,2,indicative_raster_intersection,2
+way/1284788677,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788678,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284788679,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284788680,yes,Sedang,2,indicative_raster_intersection,1
+way/1284788681,yes,Sedang,2,indicative_raster_intersection,1
+way/1284788682,yes,Sedang,2,indicative_raster_intersection,1
+way/1284788683,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284790191,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284790192,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284790193,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284790194,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284790195,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284790196,yes,Tinggi,3,indicative_raster_intersection,3
+way/1284790197,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284790198,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284790199,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284790200,yes,Sedang,2,indicative_raster_intersection,1
+way/1284790201,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797328,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797329,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797330,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797331,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797332,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797333,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797334,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797335,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797336,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797337,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797338,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797339,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797340,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797341,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797342,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797343,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797344,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797345,yes,Tinggi,3,indicative_raster_intersection,2
+way/1284797346,yes,Tinggi,3,indicative_raster_intersection,1
+way/1284797347,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285403292,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411252,yes,Sedang,2,indicative_raster_intersection,2
+way/1285411253,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411254,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411255,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411256,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411257,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411258,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411259,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411260,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411261,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411262,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411263,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285411264,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411265,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411266,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411267,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411268,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411269,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411270,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411271,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411272,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411273,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411274,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411275,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411276,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411277,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411278,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411279,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411280,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285411281,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411282,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411283,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411284,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285411285,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411286,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411287,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411288,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411289,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411290,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285411291,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434588,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434589,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285434590,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434591,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434592,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434593,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434594,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285434595,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434596,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434597,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434598,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434599,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434600,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434601,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434602,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434603,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285434604,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434605,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434606,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434607,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434608,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434609,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434610,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285434611,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434612,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434613,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285434614,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434615,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434616,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434617,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434618,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434619,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434620,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434621,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434622,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434623,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434624,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434625,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434626,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434627,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434628,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434629,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434630,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434631,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434632,yes,Sedang,2,indicative_raster_intersection,2
+way/1285434633,yes,Sedang,2,indicative_raster_intersection,4
+way/1285434634,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434635,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434636,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434637,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434638,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434640,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434641,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434642,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434643,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434644,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434645,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285434646,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285434647,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434648,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285434649,yes,Sedang,2,indicative_raster_intersection,1
+way/1285434650,yes,Sedang,2,indicative_raster_intersection,1
+way/1285442226,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285442227,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285442228,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285442229,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458808,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458809,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458810,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458811,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458812,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458813,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458814,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458815,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458816,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458817,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458818,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458819,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458820,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458821,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458822,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458823,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458824,yes,Sedang,2,indicative_raster_intersection,3
+way/1285458825,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458826,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458827,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458828,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458829,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458830,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458831,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458832,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458833,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458834,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458835,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285458836,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458837,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458838,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458839,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458840,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458841,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458842,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458843,yes,Sedang,2,indicative_raster_intersection,4
+way/1285458844,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458845,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458846,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458847,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458848,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458849,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458850,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458851,yes,Rendah,1,indicative_raster_intersection,1
+way/1285458852,yes,Rendah,1,indicative_raster_intersection,3
+way/1285458853,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458854,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458855,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458856,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458857,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458858,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458859,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458860,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458861,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458862,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458863,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458864,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458865,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458866,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458867,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458868,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458869,yes,Rendah,1,indicative_raster_intersection,1
+way/1285458870,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458871,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458872,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458873,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458874,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458875,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458876,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458877,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458878,yes,Sedang,2,indicative_raster_intersection,3
+way/1285458879,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458880,yes,Rendah,1,indicative_raster_intersection,1
+way/1285458881,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458882,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458883,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285458884,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458885,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458886,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458887,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458888,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458889,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458890,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458891,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458892,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458893,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458894,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458895,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458896,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458897,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285458898,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458899,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458900,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458901,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458902,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458903,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458904,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458905,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458906,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458907,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458908,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458909,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458910,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458911,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458912,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458913,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458914,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285458915,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458916,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458917,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458918,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285458919,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458920,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458921,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458922,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285458923,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458924,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458925,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458927,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458928,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458929,yes,Tinggi,3,indicative_raster_intersection,3
+way/1285458930,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458931,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458932,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458933,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458934,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458935,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458936,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458937,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458938,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458939,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458940,yes,Sedang,2,indicative_raster_intersection,3
+way/1285458942,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458943,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458944,yes,Sedang,2,indicative_raster_intersection,2
+way/1285458945,yes,Sedang,2,indicative_raster_intersection,1
+way/1285458946,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458947,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458948,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458949,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285458950,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458951,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285458952,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458953,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458954,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458955,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285458956,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285815981,yes,Sedang,2,indicative_raster_intersection,2
+way/1285815982,yes,Tinggi,3,indicative_raster_intersection,5
+way/1285815983,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285815984,yes,Tinggi,3,indicative_raster_intersection,4
+way/1285815985,yes,Tinggi,3,indicative_raster_intersection,1
+way/1285815986,yes,Sedang,2,indicative_raster_intersection,2
+way/1285815987,yes,Sedang,2,indicative_raster_intersection,3
+way/1285815988,yes,Sedang,2,indicative_raster_intersection,2
+way/1285815989,yes,Sedang,2,indicative_raster_intersection,1
+way/1285815990,yes,Sedang,2,indicative_raster_intersection,2
+way/1285815991,yes,Sedang,2,indicative_raster_intersection,1
+way/1285815992,yes,Sedang,2,indicative_raster_intersection,1
+way/1285815993,yes,Sedang,2,indicative_raster_intersection,2
+way/1285815994,yes,Sedang,2,indicative_raster_intersection,2
+way/1285815995,yes,Sedang,2,indicative_raster_intersection,4
+way/1285816640,yes,Sedang,2,indicative_raster_intersection,4
+way/1285819278,yes,Sedang,2,indicative_raster_intersection,2
+way/1285819279,yes,Rendah,1,indicative_raster_intersection,1
+way/1285819280,yes,Sedang,2,indicative_raster_intersection,2
+way/1285819281,yes,Sedang,2,indicative_raster_intersection,1
+way/1285819282,yes,Sedang,2,indicative_raster_intersection,1
+way/1285819283,yes,Sedang,2,indicative_raster_intersection,1
+way/1285819284,yes,Sedang,2,indicative_raster_intersection,1
+way/1285819285,yes,Sedang,2,indicative_raster_intersection,2
+way/1285819286,yes,Sedang,2,indicative_raster_intersection,3
+way/1285819287,yes,Sedang,2,indicative_raster_intersection,3
+way/1285819288,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285819289,yes,Tinggi,3,indicative_raster_intersection,2
+way/1285819290,yes,Sedang,2,indicative_raster_intersection,1
+way/1285819291,yes,Tinggi,3,indicative_raster_intersection,3
+way/1286169468,yes,Tinggi,3,indicative_raster_intersection,1
+way/1290619635,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619636,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619637,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619638,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619639,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619640,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619641,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619642,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619643,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619644,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1290619645,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1298841937,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305524355,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305524356,government,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305539573,government,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305588214,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305588215,residential,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305588216,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305588217,parking,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305588218,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305797094,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305797095,government,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305797098,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1305797099,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1308758858,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1308767180,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1308767186,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383489633,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655276,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655277,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655278,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655279,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655280,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655281,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655282,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655283,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655284,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655285,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655286,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655287,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655288,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655289,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655290,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655291,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655292,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655293,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655294,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655295,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655296,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655297,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655298,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655299,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1383655300,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1384235948,yes,Tinggi,3,indicative_raster_intersection,24
+way/1384235949,yes,Tinggi,3,indicative_raster_intersection,4
+way/1396810265,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810266,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810272,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810273,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810274,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810275,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810278,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810279,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810280,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810283,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810284,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810285,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810286,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810287,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810298,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810299,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1396810300,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556105,service,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556106,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556107,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556116,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556117,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556118,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556120,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556142,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556143,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556144,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556145,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556147,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1408556151,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070633,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070658,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070659,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070660,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070663,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070664,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070665,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070666,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070667,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070668,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070669,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070670,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070671,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070672,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070673,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070674,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070675,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070676,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070677,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070678,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070679,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070680,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070681,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070682,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070683,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070684,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070687,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070688,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070689,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070690,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070691,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070692,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070693,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070694,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070695,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070696,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070697,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070698,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070699,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070700,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070701,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070702,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070703,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070711,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070712,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070713,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070714,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070715,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070716,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070720,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070726,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070727,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070728,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070729,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070736,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070738,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070743,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070744,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070745,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070746,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070749,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070762,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070765,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070766,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070767,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070768,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070769,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409070783,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423457,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423460,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423463,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423464,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423465,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423466,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423470,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423471,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423472,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423473,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423474,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423475,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423476,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423477,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423478,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423479,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423480,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423481,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423482,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423483,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423485,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423486,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423487,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423488,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423489,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423490,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423491,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423492,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423493,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423494,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423495,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423496,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423497,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423498,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423499,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423500,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423505,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423506,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423507,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423508,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423509,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423510,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423511,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423512,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423513,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423514,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423515,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423516,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423517,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423518,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423519,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423520,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423523,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423524,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423525,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423526,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423527,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423528,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423529,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423530,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423531,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423532,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423533,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423534,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423535,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423536,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423537,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423538,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423539,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423540,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423541,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423542,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423543,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423544,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423545,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423556,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423557,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423558,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423559,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423560,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423561,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423562,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423563,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423564,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423565,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423576,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423581,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423582,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423583,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423584,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423585,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423586,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423632,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423662,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423667,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423678,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423690,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423691,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423692,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423693,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423703,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423710,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423715,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423716,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423718,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423719,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423720,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423727,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423733,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1409423738,dormitory,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980490,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980491,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980492,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980531,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980532,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980536,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980537,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980538,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980561,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980562,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980563,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980564,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980565,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980566,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980567,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980568,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980569,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980570,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980571,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980600,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980601,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980602,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980603,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980604,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980605,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980606,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980607,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980608,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980609,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980610,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980611,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980612,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980613,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980615,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980616,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980622,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980625,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980626,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980627,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980628,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980629,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980630,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980631,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980632,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980633,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980634,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980635,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980636,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980637,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980638,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980639,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980640,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980641,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980642,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980643,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980644,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980645,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980646,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980648,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980649,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980650,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980651,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980652,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980653,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980654,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980656,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980657,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980658,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980659,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980660,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980661,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980662,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980663,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980664,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980665,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980666,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980667,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980668,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980669,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980670,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980671,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980672,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980675,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980676,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980677,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980678,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980679,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980680,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980681,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980684,construction,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980690,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980692,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980693,commercial,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980694,school,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980695,school,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980710,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980711,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980713,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980715,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980732,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980733,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980737,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980739,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980740,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980741,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980742,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980743,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980744,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980753,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980761,house,Belum diklasifikasikan,,no_valid_zonation,0
+way/1412980770,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560389,parking,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560390,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560399,hospital,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560400,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560401,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560402,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560403,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560404,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560405,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560406,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560407,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560419,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560420,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560421,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560422,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560429,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560430,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560431,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560433,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560459,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560460,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560483,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560484,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560485,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560486,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560487,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560496,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560497,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560499,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560501,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560502,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560503,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560504,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560505,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560509,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560512,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560533,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560543,parking,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560561,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560562,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560563,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560564,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560565,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560566,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560586,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560589,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560594,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560595,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1413560603,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414214289,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214290,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214291,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214292,yes,Tinggi,3,indicative_raster_intersection,3
+way/1414214293,yes,Tinggi,3,indicative_raster_intersection,1
+way/1414214294,yes,Tinggi,3,indicative_raster_intersection,2
+way/1414214295,yes,Tinggi,3,indicative_raster_intersection,1
+way/1414214296,yes,Tinggi,3,indicative_raster_intersection,1
+way/1414214297,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214298,yes,Sedang,2,indicative_raster_intersection,2
+way/1414214299,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214300,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214301,yes,Tinggi,3,indicative_raster_intersection,4
+way/1414214302,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214303,yes,Sedang,2,indicative_raster_intersection,2
+way/1414214304,yes,Sedang,2,indicative_raster_intersection,2
+way/1414214305,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214306,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214307,yes,Sedang,2,indicative_raster_intersection,1
+way/1414214308,yes,Sedang,2,indicative_raster_intersection,4
+way/1414214310,yes,Tinggi,3,indicative_raster_intersection,2
+way/1414214311,yes,Tinggi,3,indicative_raster_intersection,1
+way/1414293206,government,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293235,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293236,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293237,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293239,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293240,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293241,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293242,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293243,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293244,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293245,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293246,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293247,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293248,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293249,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293259,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293274,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293275,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293285,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293286,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293307,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293308,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293314,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293318,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293319,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293320,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293321,roof,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293332,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293342,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293343,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293344,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293345,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293346,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293347,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293359,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293360,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293377,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293382,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293385,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293391,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293404,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293405,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293406,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293407,apartments,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414293411,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367565,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367566,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367571,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367572,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367573,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367574,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367575,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367577,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367579,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367580,office,Belum diklasifikasikan,,no_valid_zonation,0
+way/1414367590,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1518293664,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1518293665,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1526159405,church,Belum diklasifikasikan,,no_valid_zonation,0
+way/1526159407,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1526159408,mosque,Belum diklasifikasikan,,no_valid_zonation,0
+way/1534262889,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291876,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291877,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291878,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291879,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291880,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291881,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291882,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291883,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291884,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291885,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291886,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291887,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291888,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291889,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291890,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291891,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291892,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291893,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291894,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291895,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291896,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291897,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291898,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291899,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291900,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291901,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291902,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291903,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291904,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291905,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291906,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291907,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1539291908,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1544557991,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1544557992,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1548619046,yes,Belum diklasifikasikan,,no_valid_zonation,0
+way/1567863093,school,Sedang,2,indicative_raster_intersection,2
+way/1567863094,school,Sedang,2,indicative_raster_intersection,2
+way/1567863095,school,Sedang,2,indicative_raster_intersection,4
+way/1567863096,school,Sedang,2,indicative_raster_intersection,2
+way/1567863097,mosque,Sedang,2,indicative_raster_intersection,1
+way/1567863098,school,Sedang,2,indicative_raster_intersection,2
+way/1567863099,school,Sedang,2,indicative_raster_intersection,2
+way/1567863102,yes,Sedang,2,indicative_raster_intersection,1

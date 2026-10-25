@@ -1,0 +1,2 @@
+import {useEffect,useState} from 'react';
+export function useGeoLayers(){const [layers,setLayers]=useState({});useEffect(()=>{let live=true;Promise.all(['basins','rivers','mangrove','locations','builtup','builtup_zoned'].map(async key=>{try{const r=await fetch(`/data/${key}.geojson`);if(!r.ok)return[key,null];const data=await r.json();return[key,['Feature','FeatureCollection'].includes(data.type)?data:null]}catch{return[key,null]}})).then(items=>{if(live)setLayers(Object.fromEntries(items))});return()=>{live=false}},[]);return layers}
